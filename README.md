@@ -38,7 +38,6 @@ Project is: _complete_
 
 
 ## Acknowledgements
-Give credit here.
 - This project was completed as part of coursework for Computer Science 210 - Software Development at the University of Arizona.
 
 
